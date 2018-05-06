@@ -1,4 +1,4 @@
-[孵化中](https://github.com/hocgin/IDEAs/issues)
+[🥚孵化中](https://github.com/hocgin/IDEAs/issues)
 
 | 项目 | 意见 | 进度 |
 |----|----|----|
